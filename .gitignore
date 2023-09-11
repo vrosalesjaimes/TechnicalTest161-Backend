@@ -5,12 +5,8 @@
 # Spring Boot log files
 logs/
 
-# Compiled class files
-target/
-
 # Maven build directories
 .mvn/
-target/
 !.mvn/wrapper/maven-wrapper.jar
 
 # IntelliJ IDEA files
