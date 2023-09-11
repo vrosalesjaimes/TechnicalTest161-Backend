@@ -16,7 +16,7 @@ public class Learning {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String language;
-    private Integer percentage;
+    private Double percentage;
     private Integer responses;
 }
 
